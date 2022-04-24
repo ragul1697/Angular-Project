@@ -1,0 +1,120 @@
+table {
+  width: 100%;
+}
+tbody {
+  display:block;
+  height:200px;
+  overflow:auto;
+}
+thead, tbody tr {
+  display:table;
+  width:100%;
+  table-layout:fixed;/* even columns width , fix width of table too*/
+}
+thead {
+  width: calc( 100% - 1em )/* scrollbar is average 1em/16px width, remove it from thead width */
+}
+
+/*.general-enquiry-searchResults-panel .table-common th.mat-header-cell:nth-child(1),
+.general-enquiry-searchResults-panel .table-common th.mat-header-cell:nth-child(2),
+.general-enquiry-searchResults-panel .table-common th.mat-header-cell:nth-child(3),*/
+.general-enquiry-policyAgent-panel .table-common th.mat-header-cell:nth-child(3) {
+  width: 135px;
+}
+.general-enquiry-policyAgent-panel .table-common th.mat-header-cell:nth-child(1) {
+  width: 125px;   
+}
+.general-enquiry-policyAgent-panel .table-common th.mat-header-cell:nth-child(2),
+.general-enquiry-policyAgent-panel .table-common th.mat-header-cell:nth-child(3),
+.general-enquiry-policyAgent-panel .table-common th.mat-header-cell:nth-child(4) {
+  width: 160px;
+}
+.general-enquiry-policyAgent-panel .table-common th.mat-header-cell:nth-child(5) {
+  width: 95px;
+}
+.general-enquiry-policyAgent-panel .table-common th.mat-header-cell:nth-child(6) {
+  width: 108px;
+}
+.general-enquiry-policyAgent-panel .table-common th.mat-header-cell:nth-child(7) {
+  width: 100px;
+}
+.general-enquiry-policyAgent-panel .table-common th.mat-header-cell:nth-child(8) {
+  width: 135px;
+}
+.general-enquiry-policyAgent-panel .table-common th.mat-header-cell:nth-child(9) {
+  width: 120px;
+}
+/*.general-enquiry-searchResults-panel .table-common th.mat-header-cell:last-child {
+  width: 140px;
+}*/
+.general-enquiry-policyAgent-panel .table-common th.mat-header-cell:last-child {
+  width: 155px;
+}
+.general-enquiry-searchResults-panel table tr.active td {
+  border-top-width: 2px !important;
+  border-color: rgba(22,32,106,0.3) !important;
+  border-style: solid !important;
+  border-bottom-width: 2px;
+  background-color: #CBE1FF;
+}
+.general-enquiry-searchResults-panel table tr.active td:first-child {
+  border-left-width: 3px !important;
+}
+.general-enquiry-searchResults-panel table tr.active td:last-child {
+  border-right-width: 3px !important;
+}
+
+/*For UI demo Purpose */
+.general-enquiry-searchResults-panel,
+.general-enquiry-policyAgent-panel {
+  display: none;
+}
+.general-enquiry-searchResults-panel.show_panel,
+.general-enquiry-policyAgent-panel.show_panel {
+  display: block;
+}
+
+
+
+tr.generalEnquiryColumns-expanded {
+  height: 0 !important;
+}
+.table-common tr.generalEnquiryColumns-expanded td.mat-cell {
+  padding: 0px 12px !important;
+  background-color: #e1eeff;
+}
+
+
+tr.generalEnquiryColumns-row:not(.example-expanded-row):hover {
+  background: whitesmoke;
+}
+
+tr.generalEnquiryColumns-row:not(.example-expanded-row):active {
+  background: #efefef;
+}
+
+.generalEnquiryColumns-expanded td {
+  border-bottom-width: 0;
+}
+
+.expanded-element-details {
+  overflow: hidden;
+  position: relative;
+}
+.expanded-element-details table {
+  margin-bottom: 15px;
+}
+.table-expanded-head {
+  padding: 5px 0px;
+}
+.table-expanded-head h1, .table-expanded-head p {
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+.table-expanded-head h1 {
+  color: #091D2D;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+}

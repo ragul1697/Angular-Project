@@ -1,0 +1,320 @@
+[
+  {
+    "custRefNo": 998,
+    "name": "rama",
+    "epfNo": null,
+    "firstName": null,
+    "lastName": null,
+    "dateOfBirth": "1974-03-12 00:00:00.0",
+    "indityNo": "346456",
+    "mobile": null,
+    "fax": null,
+    "mail": null,
+    "phone": null,
+    "policyJson": [
+      {
+        "cusRefNo": 998,
+        "policyNo": "TL202307242981",
+        "certNo": "TL202307242981",
+        "polStatus": "AWAITING MANUAL UNDER-WRITING",
+        "premStatus": "AWAITING MANUAL UNDER-WRITING",
+        "agentJson": [
+          {
+            "policyNo": "TL202307242981",
+            "agentNo": 37157,
+            "agentType": "I",
+            "cusRefNo": 1583,
+            "companyCode": null,
+            "companyBranch": null,
+            "name": "KARTHII"
+          }
+        ]
+      },
+      {
+        "cusRefNo": 998,
+        "policyNo": "GL202007236981",
+        "certNo": "GL202007236981-1",
+        "polStatus": "IN-FORCE",
+        "premStatus": "IN-FORCE",
+        "agentJson": [
+          {
+            "policyNo": "GL202007236981",
+            "agentNo": 37158,
+            "agentType": "I",
+            "cusRefNo": 1799,
+            "companyCode": null,
+            "companyBranch": null,
+            "name": "APACHE001"
+          }
+        ]
+      },
+      {
+        "cusRefNo": 998,
+        "policyNo": "GL202507237166",
+        "certNo": "GL202507237166-1-SELF",
+        "polStatus": "CERTIFICATE EXIT",
+        "premStatus": "CERTIFICATE EXIT",
+        "agentJson": [
+          {
+            "policyNo": "GL202507237166",
+            "agentNo": 36495,
+            "agentType": "I",
+            "cusRefNo": 219,
+            "companyCode": null,
+            "companyBranch": null,
+            "name": "KAVITHA KARINA"
+          }
+        ]
+      },
+      {
+        "cusRefNo": 998,
+        "policyNo": "GL202107237441",
+        "certNo": "GL202107237441-1",
+        "polStatus": "IN-FORCE",
+        "premStatus": "IN-FORCE",
+        "agentJson": [
+          {
+            "policyNo": "GL202107237441",
+            "agentNo": 36495,
+            "agentType": "I",
+            "cusRefNo": 219,
+            "companyCode": null,
+            "companyBranch": null,
+            "name": "KAVITHA KARINA"
+          }
+        ]
+      },
+      {
+        "cusRefNo": 998,
+        "policyNo": "GL202107237102",
+        "certNo": "GL202107237102-3-SELF",
+        "polStatus": "IN-FORCE",
+        "premStatus": "IN-FORCE",
+        "agentJson": [
+          {
+            "policyNo": "GL202107237102",
+            "agentNo": 36495,
+            "agentType": "I",
+            "cusRefNo": 219,
+            "companyCode": null,
+            "companyBranch": null,
+            "name": "KAVITHA KARINA"
+          }
+        ]
+      },
+      {
+        "cusRefNo": 998,
+        "policyNo": "TL201107200070",
+        "certNo": "TL201107200070",
+        "polStatus": "IN-FORCE",
+        "premStatus": "IN-FORCE",
+        "agentJson": [
+          {
+            "policyNo": "TL201107200070",
+            "agentNo": 36614,
+            "agentType": "I",
+            "cusRefNo": 397,
+            "companyCode": null,
+            "companyBranch": null,
+            "name": "UM66"
+          }
+        ]
+      },
+      {
+        "cusRefNo": 998,
+        "policyNo": "TL202107200750",
+        "certNo": "TL202107200750",
+        "polStatus": "AWAITING PREMIUM",
+        "premStatus": "AWAITING PREMIUM",
+        "agentJson": [
+          {
+            "policyNo": "TL202107200750",
+            "agentNo": 36843,
+            "agentType": "I",
+            "cusRefNo": 885,
+            "companyCode": null,
+            "companyBranch": null,
+            "name": "KARIM"
+          }
+        ]
+      },
+      {
+        "cusRefNo": 998,
+        "policyNo": "GL202107238001",
+        "certNo": "GL202107238001-2",
+        "polStatus": "IN-FORCE",
+        "premStatus": "IN-FORCE",
+        "agentJson": [
+          {
+            "policyNo": "GL202107238001",
+            "agentNo": 36495,
+            "agentType": "I",
+            "cusRefNo": 219,
+            "companyCode": null,
+            "companyBranch": null,
+            "name": "KAVITHA KARINA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "custRefNo": 998,
+    "name": "rama",
+    "epfNo": null,
+    "firstName": null,
+    "lastName": null,
+    "dateOfBirth": "1974-03-12 00:00:00.0",
+    "indityNo": "A0037603",
+    "mobile": null,
+    "fax": null,
+    "mail": null,
+    "phone": null,
+    "policyJson": [
+      {
+        "cusRefNo": 998,
+        "policyNo": "TL202307242981",
+        "certNo": "TL202307242981",
+        "polStatus": "AWAITING MANUAL UNDER-WRITING",
+        "premStatus": "AWAITING MANUAL UNDER-WRITING",
+        "agentJson": [
+          {
+            "policyNo": "TL202307242981",
+            "agentNo": 37157,
+            "agentType": "I",
+            "cusRefNo": 1583,
+            "companyCode": null,
+            "companyBranch": null,
+            "name": "KARTHII"
+          }
+        ]
+      },
+      {
+        "cusRefNo": 998,
+        "policyNo": "GL202007236981",
+        "certNo": "GL202007236981-1",
+        "polStatus": "IN-FORCE",
+        "premStatus": "IN-FORCE",
+        "agentJson": [
+          {
+            "policyNo": "GL202007236981",
+            "agentNo": 37158,
+            "agentType": "I",
+            "cusRefNo": 1799,
+            "companyCode": null,
+            "companyBranch": null,
+            "name": "APACHE001"
+          }
+        ]
+      },
+      {
+        "cusRefNo": 998,
+        "policyNo": "GL202507237166",
+        "certNo": "GL202507237166-1-SELF",
+        "polStatus": "CERTIFICATE EXIT",
+        "premStatus": "CERTIFICATE EXIT",
+        "agentJson": [
+          {
+            "policyNo": "GL202507237166",
+            "agentNo": 36495,
+            "agentType": "I",
+            "cusRefNo": 219,
+            "companyCode": null,
+            "companyBranch": null,
+            "name": "KAVITHA KARINA"
+          }
+        ]
+      },
+      {
+        "cusRefNo": 998,
+        "policyNo": "GL202107237441",
+        "certNo": "GL202107237441-1",
+        "polStatus": "IN-FORCE",
+        "premStatus": "IN-FORCE",
+        "agentJson": [
+          {
+            "policyNo": "GL202107237441",
+            "agentNo": 36495,
+            "agentType": "I",
+            "cusRefNo": 219,
+            "companyCode": null,
+            "companyBranch": null,
+            "name": "KAVITHA KARINA"
+          }
+        ]
+      },
+      {
+        "cusRefNo": 998,
+        "policyNo": "GL202107237102",
+        "certNo": "GL202107237102-3-SELF",
+        "polStatus": "IN-FORCE",
+        "premStatus": "IN-FORCE",
+        "agentJson": [
+          {
+            "policyNo": "GL202107237102",
+            "agentNo": 36495,
+            "agentType": "I",
+            "cusRefNo": 219,
+            "companyCode": null,
+            "companyBranch": null,
+            "name": "KAVITHA KARINA"
+          }
+        ]
+      },
+      {
+        "cusRefNo": 998,
+        "policyNo": "TL201107200070",
+        "certNo": "TL201107200070",
+        "polStatus": "IN-FORCE",
+        "premStatus": "IN-FORCE",
+        "agentJson": [
+          {
+            "policyNo": "TL201107200070",
+            "agentNo": 36614,
+            "agentType": "I",
+            "cusRefNo": 397,
+            "companyCode": null,
+            "companyBranch": null,
+            "name": "UM66"
+          }
+        ]
+      },
+      {
+        "cusRefNo": 998,
+        "policyNo": "TL202107200750",
+        "certNo": "TL202107200750",
+        "polStatus": "AWAITING PREMIUM",
+        "premStatus": "AWAITING PREMIUM",
+        "agentJson": [
+          {
+            "policyNo": "TL202107200750",
+            "agentNo": 36843,
+            "agentType": "I",
+            "cusRefNo": 885,
+            "companyCode": null,
+            "companyBranch": null,
+            "name": "KARIM"
+          }
+        ]
+      },
+      {
+        "cusRefNo": 998,
+        "policyNo": "GL202107238001",
+        "certNo": "GL202107238001-2",
+        "polStatus": "IN-FORCE",
+        "premStatus": "IN-FORCE",
+        "agentJson": [
+          {
+            "policyNo": "GL202107238001",
+            "agentNo": 36495,
+            "agentType": "I",
+            "cusRefNo": 219,
+            "companyCode": null,
+            "companyBranch": null,
+            "name": "KAVITHA KARINA"
+          }
+        ]
+      }
+    ]
+  }
+]
